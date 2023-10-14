@@ -31,7 +31,7 @@ cd server
 npm install
 ```
 
-In the server directory, create a .env file and declare the required variables, such as secret keys and API keys. For example:
+In the server directory, create a .env file and declare the required variables. For example:
 
 ```shell
 SECRET_KEY=your-secret-key
