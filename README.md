@@ -1,6 +1,30 @@
 # MERN Authentication Web App
 
-Welcome to the MERN Authentication Web App repository. This repository contains the source code for a full-stack web application with authentication features.
+Title: Authentication App - MERN Stack with JWT and Google OAuth
+
+## Description:
+Welcome to the GitHub repository of our powerful Authentication App, developed using the MERN (MongoDB, Express.js, React, and Node.js) stack. This application is designed to provide users with a secure and seamless experience for sign-up and login, featuring token-based authentication, user data storage in MongoDB, and the ability to sign up or log in using Google OAuth via Passport.js. Here are the key features of this application:
+
+## Features:
+1. Sign-Up and Login:
+   - Users can sign up for a new account by providing their email and password.
+   - Secure and easy-to-use login functionality for existing users.
+
+2. User Dashboard:
+   - Upon successful login, users are directed to their personalized dashboard.
+
+3. JSON Web Token (JWT) Authentication:
+   - User data is securely stored in browser cookies using JWT.
+   - Returning users are automatically logged in.
+
+4. User Data Storage:
+   - User registration details are stored securely in a MongoDB database.
+   - User password is encrypted using Bcrypt for enhanced security.
+
+5. Google OAuth with Passport.js:
+   - Users have the option to sign up or log in using their Google account.
+   - Passport.js integration ensures a smooth and secure OAuth process.
+
 
 ## Getting Started
 
